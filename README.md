@@ -5,5 +5,5 @@ Programming exercises for the Stanford Unsupervised Feature Learning and Deep Le
 
 This repository contains the code for the tutorial at http://ufldl.stanford.edu/tutorial
 
-The starter code is given in MATLAB, but I will attempt to make the exercises using Python and some of it's libraries.
+The starter code is given in MATLAB, but I will attempt to make the exercises using Python together with some of it's libraries.
 
